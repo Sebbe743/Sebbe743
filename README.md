@@ -10,6 +10,8 @@ Im a student in electronics and it, this means I can:
 
 This being a pretty wide variety does not mean I enjoy doing it all. Personally I prefere writing software and programming hardware. My interest in electronics is high but it is not my strong suit. These are the things that I enjoy and wish to focus on more.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebbe743)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sebbe743/Sebbe743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
