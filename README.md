@@ -2,7 +2,7 @@
 Im a student in electronics and it, this means I can:
   - write software (c/c++)
   - program networks (c/c++)
-  - program hardware (c/c++/VHDL/descriptive language)
+  - program hardware (c/c++/VHDL/Structured text)
   - create electronic schematics (altium designer)
   - create PCBs (altium designer)
   - solder electronic devices
